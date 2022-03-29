@@ -1,0 +1,21 @@
+    div {
+        position:absolute;
+        top: 40%;
+        left: 45%;
+        translate: (-40%,-40%);
+    }
+
+
+    h1 {
+        text-align: center;
+    }
+
+    body {
+        background-color: burlywood;
+    }
+
+    fieldset {
+        border: 1px solid black;
+        border-radius: 15px;
+        background-color: rgba(128, 128, 128, 0.842);
+    }
